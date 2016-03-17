@@ -1,2 +1,2 @@
-# kizume-tour-node
-Kizume Tour
+# kizume-node-ui
+Node.js version of Kizume UI

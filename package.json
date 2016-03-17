@@ -1,0 +1,20 @@
+{
+  "name": "kizume-platform-node",
+  "version": "1.0.0",
+  "description": "Node.js implementation of Kizume Platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylervano/kizume-platform-node.git"
+  },
+  "author": "Tyler Vano <tylervano@kizu.me>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/tylervano/kizume-platform-node/issues"
+  },
+  "homepage": "https://github.com/tylervano/kizume-platform-node"
+}
